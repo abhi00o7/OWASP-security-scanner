@@ -39,5 +39,24 @@ The design of software sits on the software system technique kernel and is appli
 - Xss module 
 
 - Broken authentication module 
+## ENTITY RELATIONSHIP DIAGRAMS 
+An ER model is an abstract way to describe a database. 
+//IMAGE// 
+## USECASE DIAGRAM: 
+It is important to consider use case diagram in the planning of an economical and efficient healthcare partner system. The case diagram for use is one of the 5 YML diagrams or modelling the system dynamics. Case diagram for modelling a system, system or category comportement is central. Use case diagrams are very important for the visualisation, specification and creation of approachable systems, systems and subsystems and categories, and they can be used in context. 
+// IMAGE// 
+## PHYSICAL SYSTEM DESIGN
+The work system is created by defining design requirements that tell the programmers precisely what the applicant system has to do. 
+## ARCHITECTURAL DESIGN 
+Architectural style can be an overview of its type and structure and the ways in which its components match. The style of study can be a package element, one thing as easy as the programming module, but it could be extended to include information and middleware that changes the shopper and server network configuration. There are several modules in this project. The Admin module supports the management of the entire website. The manager may decide that the complaint should be read by the department. 
+## INTERFACE DESIGN 
+An effective communication media between a human and computer is created by the interface design. The communication between the administrator and the commissioning station is part of this project. As a database is necessary for this project, clients' machines have to be connected to the server host. Through the user friendly web pages, users interact with the software. 
+//IMAGE// 
+### Scan Report Page:
+//IMAGE// 
+## FUTURE ENHANCEMENT 
+In one step, nothing can be achieved. It's just that during this world nothing is permanent. In addition, this project has further improvements in the evergreen and booming trade in IT. Change is unavoidable. The "OWASP Scanner of Vulnerabilities" project was developed and tested successfully. The system and thus the design square are compatible and can therefore lead to abundant problems by adding the latest modules. Since this module has its characteristic characteristics, it can extend it to make a whole technique. 
+
+
 
 
