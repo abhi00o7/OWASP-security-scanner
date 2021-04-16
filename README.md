@@ -31,4 +31,13 @@ This language has been chosen for its modularity and its easy reading and a vast
 - Facing design QT 
 
 - OS: separate OS. 
+## Modules of project 
+The design of software sits on the software system technique kernel and is applied irrespective of event paradigm and application space. Style is that any built product or system begins during the development phase. The designer's objective is to provide a model or illustration of an entity that is to be developed later. Initially, once the demand for the system is fixed and the style of the system is analysed, the first of three technical activities is to design, code and take a look at software system design and verification. 
+
+- Sql py module 
+ 
+- Xss module 
+
+- Broken authentication module 
+
 
