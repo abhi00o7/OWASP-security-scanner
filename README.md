@@ -52,6 +52,10 @@ Architectural style can be an overview of its type and structure and the ways in
 ## INTERFACE DESIGN 
 An effective communication media between a human and computer is created by the interface design. The communication between the administrator and the commissioning station is part of this project. As a database is necessary for this project, clients' machines have to be connected to the server host. Through the user friendly web pages, users interact with the software. 
 //IMAGE// 
+### Scan Report Page 
+//IMAGE// 
+
+
 ## RESULTS
  
 - SQLi Output 
