@@ -52,10 +52,16 @@ Architectural style can be an overview of its type and structure and the ways in
 ## INTERFACE DESIGN 
 An effective communication media between a human and computer is created by the interface design. The communication between the administrator and the commissioning station is part of this project. As a database is necessary for this project, clients' machines have to be connected to the server host. Through the user friendly web pages, users interact with the software. 
 //IMAGE// 
-## Results 
+## RESULTS
+ 
 - SQLi Output 
+
 ![SQLi](outputSQLi.png) 
-- Output
+
+- XSS Output 
+
+![XSS](outputXSS.png) 
+
 ## FUTURE ENHANCEMENT 
 In one step, nothing can be achieved. It's just that during this world nothing is permanent. In addition, this project has further improvements in the evergreen and booming trade in IT. Change is unavoidable. The "OWASP Scanner of Vulnerabilities" project was developed and tested successfully. The system and thus the design square are compatible and can therefore lead to abundant problems by adding the latest modules. Since this module has its characteristic characteristics, it can extend it to make a whole technique. 
 
