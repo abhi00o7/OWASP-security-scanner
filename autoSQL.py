@@ -25,7 +25,7 @@ print("\n 3.High:This option is an extension to the medium difficulty, with a mi
 print("\n 4.IMPOSSIBLE: This level should be secure against all vulnerabilities.\n\n")
 
 print("Select the desired threat level: ")
-threat_level = 0
+threat_level = 0 #default
 while 1 > threat_level or 4 < threat_level:
     try:
         # to give user one more chance to select the input
@@ -143,7 +143,8 @@ try:
     # time.sleep(delay)
     # print(alert.text) 
     # alert.accept()
-    print(data)
+    # data.tag_name
+    print(data.)
 
 except:
     print ("This page is safe from SQl Injection attacks.")
